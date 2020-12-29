@@ -1,2 +1,2 @@
 # Programming-
-!(Programming-/abc.bmp "Скриншот работы программы")
+![alt text](Programming-/abc.bmp "Скриншот работы программы")
