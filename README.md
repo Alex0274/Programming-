@@ -1,2 +1,2 @@
 # Programming-
-(Programming-/abc.bmp "Скриншот работы программы")
+!(Programming-/abc.bmp "Скриншот работы программы")
